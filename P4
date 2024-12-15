@@ -1,4 +1,4 @@
-//(8).write menu driven program to implement circuler queue
+//(8).write menu driven program to implement circuler queue.
 //(1)insert (2)delete (3)modify (4)display
 #include<stdio.h>
 void main()
