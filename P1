@@ -1,4 +1,4 @@
-//(1).Write menu driven program to implement operations on array
+//(1).Write menu driven program to implement operations on array.
 //(1)Add (2)Delete (3)Modify (4)Sort (5)Simple Search (6)Binary Search
 #include<stdio.h>
 #include<conio.h>
